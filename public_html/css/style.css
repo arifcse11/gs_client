@@ -1,0 +1,148 @@
+*{
+    
+    margin: auto;
+    
+    padding: auto;
+    
+    
+}
+
+body{
+    
+    background-image: url("../img/back.png");
+    
+    
+}
+
+
+.header{
+    
+    float: left;
+    
+    width: 100%;
+    
+}
+
+/*.header img{
+    
+    margin-left: 30%;
+    
+    
+}*/
+
+
+.nav{
+    
+    float: left;
+    
+    margin-left: 5%;
+    
+    margin-top: 10%;
+    
+    width: 35%;
+    
+    
+}
+
+.nav ul{
+    
+    list-style-image: url('../img/icon.png');
+    
+    
+}
+
+
+.nav ul li{
+    
+    margin-top: 5%;
+    
+    
+}
+
+.nav ul li a{
+    
+    color: white;
+    
+    font-family: ParielSSK;
+    
+    text-decoration: none;
+    
+    text-transform: uppercase;
+    
+    font-style: italic;
+    
+    
+    
+}
+
+.main-photo{
+    float: left;
+    
+    width: 40%;
+    
+    float: right;
+    
+    margin-top: 10%;
+    
+}
+
+
+.footer{
+    
+    background-image: url("../img/footer.png");
+    
+    height: 100px;
+    
+  
+}
+
+.terms ul{
+    
+    float: left;
+    
+    margin-left: 0%;
+    
+    margin-top: 45px;
+
+    
+}
+
+
+.terms ul li {
+    
+    
+    
+    display: inline;
+    
+    
+    
+    
+}
+
+.terms ul li a{
+    
+    color: white;
+    
+    font-style: italic;
+    
+    text-decoration: none;
+    
+   
+    
+}
+
+
+.copyright p{
+    
+    color: white;
+    
+    float: right;
+    
+    margin-top: 45px;
+    
+    font-style: italic;
+    
+    
+}
+
+
